@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Beer Adviser</string>
+    <string name="find_beer">Find Beer!</string>
+    <string name="brands">No beers selected</string>
+    <string-array name="beer_colors">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+    <string name="encontrar_estaciones">Encontrar Estaciones!</string>
+    <string name="estaciones">Sin estaciones seleccionadas</string>
+    <string-array name="zonas_pais">
+        <item>Caribe</item>
+        <item>Andina</item>
+        <item>Pacifica</item>
+        <item>Orinoquia</item>
+        <item>Amazonia</item>
+    </string-array>
+
+</resources>
